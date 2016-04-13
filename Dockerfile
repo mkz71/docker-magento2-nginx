@@ -1,4 +1,4 @@
-FROM nginx:1.9.12
+FROM nginx:1.9.14
 MAINTAINER Mark Shust <mark.shust@mageinferno.com>
 
 ENV PHP_HOST phpfpm
